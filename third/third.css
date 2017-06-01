@@ -1,0 +1,45 @@
+/*--nav bar--*/
+
+.nav-bar {
+    background: #370A23;
+    width: 100%;
+    font-family: sans-serif;
+    color: #B39FAA;
+    padding: 10px
+}
+
+ul {
+    display: flex;
+    justify-content: flex-start;
+}
+
+li {
+    padding:10px 20px;
+}
+
+/*--text section--*/
+
+.text-section {
+    color: #370A23;
+    background: #9B6A86;
+    padding: 50px;
+    font-family: sans-serif;
+    height: 100%;
+    column-count: 2;
+}
+
+.image-placeholder {
+    width: 300px;
+    height: 300px;
+    background: #B39FAA;
+    
+}
+
+.title {
+    font-size: 48px;
+    padding-bottom: 10px;
+}
+
+p {
+    line-height: 1.3em;
+}
